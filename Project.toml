@@ -1,0 +1,9 @@
+[deps]
+BifurcationKit = "0f109fa4-8a5d-4b75-95aa-f515264e7665"
+Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SteadyStateDiffEq = "9672c7b4-1e72-59bd-8a11-6ac3964bc41f"
+StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
